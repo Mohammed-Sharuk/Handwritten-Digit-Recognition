@@ -1,0 +1,41 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode settings
+.vscode/
+
+# Visual Studio files
+.vs/
+
+# Environment
+.env
+.venv/
+env/
+venv/
+ENV/
+
+# Mac system files
+.DS_Store
+
+# Model files (optional — only if you want to avoid pushing large model files)
+*.h5
+*.hdf5
+
+# Logs and reports
+*.log
+*.txt
+
+# Compiled files
+*.so
+
+# Pycharm project settings
+.idea/
+
+# Other temporary files
+*.bak
+*.swp
